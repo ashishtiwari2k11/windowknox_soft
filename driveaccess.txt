@@ -1,0 +1,1 @@
+reg.exe add "HKLM\SYSTEM\CurrentControlSet\Services\storahci\Parameters\Device" /f /v TreatAsInternalPort /t REG_MULTI_SZ /d 0
